@@ -1,4 +1,4 @@
-// Node class to represent a node in the singly linked list
+this.data// Node class to represent a node in the singly linked list
 class Node {
     int data;
     Node next;
